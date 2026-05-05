@@ -43,51 +43,51 @@ const DATA = {
     avg_hold_min: 15.0, profit_factor: 2.31
   },
   equity: [
-    {date:"2025-04-22",cum_pnl:341.28,dd:0,peak:341.28},{date:"2025-04-25",cum_pnl:735.56,dd:0,peak:735.56},
-    {date:"2025-04-30",cum_pnl:735.56,dd:0,peak:735.56},{date:"2025-05-05",cum_pnl:1040.26,dd:0,peak:1040.26},
-    {date:"2025-05-08",cum_pnl:1292.06,dd:0,peak:1292.06},{date:"2025-05-13",cum_pnl:2042.54,dd:0,peak:2042.54},
-    {date:"2025-05-16",cum_pnl:2042.54,dd:0,peak:2042.54},{date:"2025-05-21",cum_pnl:2537.84,dd:0,peak:2537.84},
-    {date:"2025-05-26",cum_pnl:2267.64,dd:-270.20,peak:2537.84},{date:"2025-05-29",cum_pnl:2585.48,dd:0,peak:2585.48},
-    {date:"2025-06-03",cum_pnl:2847.76,dd:0,peak:2847.76},{date:"2025-06-06",cum_pnl:2847.76,dd:0,peak:2847.76},
-    {date:"2025-06-11",cum_pnl:2319.76,dd:-528.00,peak:2847.76},{date:"2025-06-16",cum_pnl:2423.92,dd:-423.84,peak:2847.76},
-    {date:"2025-06-19",cum_pnl:2903.32,dd:0,peak:2903.32},{date:"2025-06-24",cum_pnl:2903.32,dd:0,peak:2903.32},
-    {date:"2025-06-27",cum_pnl:2903.32,dd:0,peak:2903.32},{date:"2025-07-02",cum_pnl:3355.72,dd:0,peak:3355.72},
-    {date:"2025-07-07",cum_pnl:3612.08,dd:-118.20,peak:3730.28},{date:"2025-07-10",cum_pnl:3530.48,dd:-199.80,peak:3730.28},
-    {date:"2025-07-15",cum_pnl:3824.98,dd:0,peak:3824.98},{date:"2025-07-18",cum_pnl:3455.68,dd:-369.30,peak:3824.98},
-    {date:"2025-07-23",cum_pnl:3697.28,dd:-127.70,peak:3824.98},{date:"2025-07-28",cum_pnl:4148.48,dd:0,peak:4148.48},
-    {date:"2025-07-31",cum_pnl:4066.88,dd:-81.60,peak:4148.48},{date:"2025-08-05",cum_pnl:4272.68,dd:0,peak:4272.68},
-    {date:"2025-08-08",cum_pnl:4408.18,dd:0,peak:4408.18},{date:"2025-08-13",cum_pnl:4408.18,dd:0,peak:4408.18},
-    {date:"2025-08-18",cum_pnl:3982.28,dd:-425.90,peak:4408.18},{date:"2025-08-21",cum_pnl:4288.48,dd:-119.70,peak:4408.18},
-    {date:"2025-08-26",cum_pnl:4517.38,dd:0,peak:4517.38},{date:"2025-08-29",cum_pnl:4814.08,dd:0,peak:4814.08},
-    {date:"2025-09-03",cum_pnl:5237.28,dd:0,peak:5237.28},{date:"2025-09-08",cum_pnl:4694.16,dd:-543.12,peak:5237.28},
-    {date:"2025-09-11",cum_pnl:4694.16,dd:-543.12,peak:5237.28},{date:"2025-09-16",cum_pnl:5579.16,dd:0,peak:5579.16},
-    {date:"2025-09-19",cum_pnl:5579.16,dd:0,peak:5579.16},{date:"2025-09-24",cum_pnl:5255.56,dd:-323.60,peak:5579.16},
-    {date:"2025-09-29",cum_pnl:4757.46,dd:-821.70,peak:5579.16},{date:"2025-10-02",cum_pnl:4998.36,dd:-580.80,peak:5579.16},
-    {date:"2025-10-07",cum_pnl:4998.36,dd:-580.80,peak:5579.16},{date:"2025-10-10",cum_pnl:5472.86,dd:-106.30,peak:5579.16},
-    {date:"2025-10-15",cum_pnl:5472.86,dd:-106.30,peak:5579.16},{date:"2025-10-20",cum_pnl:6201.06,dd:0,peak:6201.06},
-    {date:"2025-10-23",cum_pnl:6472.86,dd:0,peak:6472.86},{date:"2025-10-28",cum_pnl:6476.66,dd:0,peak:6476.66},
-    {date:"2025-10-31",cum_pnl:6476.66,dd:0,peak:6476.66},{date:"2025-11-05",cum_pnl:6761.96,dd:0,peak:6761.96},
-    {date:"2025-11-10",cum_pnl:7131.24,dd:0,peak:7131.24},{date:"2025-11-13",cum_pnl:6803.04,dd:-328.20,peak:7131.24},
-    {date:"2025-11-18",cum_pnl:6852.48,dd:-278.76,peak:7131.24},{date:"2025-11-21",cum_pnl:6309.78,dd:-821.46,peak:7131.24},
-    {date:"2025-11-26",cum_pnl:6235.38,dd:-895.86,peak:7131.24},{date:"2025-12-01",cum_pnl:6339.88,dd:-791.36,peak:7131.24},
-    {date:"2025-12-04",cum_pnl:6213.02,dd:-918.22,peak:7131.24},{date:"2025-12-09",cum_pnl:6488.22,dd:-643.02,peak:7131.24},
-    {date:"2025-12-12",cum_pnl:6351.72,dd:-779.52,peak:7131.24},{date:"2025-12-17",cum_pnl:6351.72,dd:-779.52,peak:7131.24},
-    {date:"2025-12-22",cum_pnl:6351.72,dd:-779.52,peak:7131.24},{date:"2025-12-25",cum_pnl:6351.72,dd:-779.52,peak:7131.24},
-    {date:"2025-12-30",cum_pnl:6351.72,dd:-779.52,peak:7131.24},{date:"2026-01-02",cum_pnl:6552.62,dd:-578.62,peak:7131.24},
-    {date:"2026-01-07",cum_pnl:7037.22,dd:-94.02,peak:7131.24},{date:"2026-01-12",cum_pnl:7190.06,dd:-138.50,peak:7328.56},
-    {date:"2026-01-15",cum_pnl:7479.76,dd:0,peak:7479.76},{date:"2026-01-20",cum_pnl:7950.36,dd:0,peak:7950.36},
-    {date:"2026-01-23",cum_pnl:8355.96,dd:0,peak:8355.96},{date:"2026-01-28",cum_pnl:8778.56,dd:0,peak:8778.56},
-    {date:"2026-02-02",cum_pnl:8493.36,dd:-285.20,peak:8778.56},{date:"2026-02-05",cum_pnl:8944.00,dd:0,peak:8944.00},
-    {date:"2026-02-10",cum_pnl:9252.70,dd:0,peak:9252.70},{date:"2026-02-13",cum_pnl:9536.50,dd:0,peak:9536.50},
-    {date:"2026-02-18",cum_pnl:9294.70,dd:-241.80,peak:9536.50},{date:"2026-02-23",cum_pnl:10042.00,dd:0,peak:10042.00},
-    {date:"2026-02-26",cum_pnl:9900.70,dd:-141.30,peak:10042.00},{date:"2026-03-03",cum_pnl:10048.70,dd:-64.90,peak:10113.60},
-    {date:"2026-03-06",cum_pnl:10294.10,dd:0,peak:10294.10},{date:"2026-03-11",cum_pnl:10776.70,dd:0,peak:10776.70},
-    {date:"2026-03-16",cum_pnl:11511.92,dd:0,peak:11511.92},{date:"2026-03-19",cum_pnl:11764.22,dd:0,peak:11764.22},
-    {date:"2026-03-24",cum_pnl:12050.52,dd:0,peak:12050.52},{date:"2026-03-27",cum_pnl:12107.62,dd:0,peak:12107.62},
-    {date:"2026-04-01",cum_pnl:12541.32,dd:0,peak:12541.32},{date:"2026-04-06",cum_pnl:12541.32,dd:0,peak:12541.32},
-    {date:"2026-04-09",cum_pnl:13168.90,dd:0,peak:13168.90},{date:"2026-04-14",cum_pnl:13385.80,dd:0,peak:13385.80},
-    {date:"2026-04-17",cum_pnl:13385.80,dd:0,peak:13385.80},{date:"2026-04-22",cum_pnl:14329.40,dd:0,peak:14329.40},
-    {date:"2026-04-24",cum_pnl:13992.20,dd:-337.20,peak:14329.40}
+    {date:"2025-04-22",cum_pnl:341.28,dd:0.0,peak:341.28,period_pnl:341.28},{date:"2025-04-25",cum_pnl:735.56,dd:0.0,peak:735.56,period_pnl:394.28},
+    {date:"2025-04-30",cum_pnl:735.56,dd:0.0,peak:735.56,period_pnl:0.0},{date:"2025-05-05",cum_pnl:1040.26,dd:0.0,peak:1040.26,period_pnl:304.7},
+    {date:"2025-05-08",cum_pnl:1292.06,dd:0.0,peak:1292.06,period_pnl:251.8},{date:"2025-05-13",cum_pnl:2042.54,dd:0.0,peak:2042.54,period_pnl:750.48},
+    {date:"2025-05-16",cum_pnl:2042.54,dd:0.0,peak:2042.54,period_pnl:0.0},{date:"2025-05-21",cum_pnl:2537.84,dd:0.0,peak:2537.84,period_pnl:495.3},
+    {date:"2025-05-26",cum_pnl:2267.64,dd:-270.2,peak:2537.84,period_pnl:-270.2},{date:"2025-05-29",cum_pnl:2585.48,dd:0.0,peak:2585.48,period_pnl:317.84},
+    {date:"2025-06-03",cum_pnl:2847.76,dd:0.0,peak:2847.76,period_pnl:262.28},{date:"2025-06-06",cum_pnl:2847.76,dd:0.0,peak:2847.76,period_pnl:0.0},
+    {date:"2025-06-11",cum_pnl:2319.76,dd:-528.0,peak:2847.76,period_pnl:-528.0},{date:"2025-06-16",cum_pnl:2423.92,dd:-423.84,peak:2847.76,period_pnl:104.16},
+    {date:"2025-06-19",cum_pnl:2903.32,dd:0.0,peak:2903.32,period_pnl:479.4},{date:"2025-06-24",cum_pnl:2903.32,dd:0.0,peak:2903.32,period_pnl:0.0},
+    {date:"2025-06-27",cum_pnl:2903.32,dd:0.0,peak:2903.32,period_pnl:0.0},{date:"2025-07-02",cum_pnl:3355.72,dd:0.0,peak:3355.72,period_pnl:452.4},
+    {date:"2025-07-07",cum_pnl:3612.08,dd:-118.2,peak:3730.28,period_pnl:256.36},{date:"2025-07-10",cum_pnl:3530.48,dd:-199.8,peak:3730.28,period_pnl:-81.6},
+    {date:"2025-07-15",cum_pnl:3824.98,dd:0.0,peak:3824.98,period_pnl:294.5},{date:"2025-07-18",cum_pnl:3455.68,dd:-369.3,peak:3824.98,period_pnl:-369.3},
+    {date:"2025-07-23",cum_pnl:3697.28,dd:-127.7,peak:3824.98,period_pnl:241.6},{date:"2025-07-28",cum_pnl:4148.48,dd:0.0,peak:4148.48,period_pnl:451.2},
+    {date:"2025-07-31",cum_pnl:4066.88,dd:-81.6,peak:4148.48,period_pnl:-81.6},{date:"2025-08-05",cum_pnl:4272.68,dd:0.0,peak:4272.68,period_pnl:205.8},
+    {date:"2025-08-08",cum_pnl:4408.18,dd:0.0,peak:4408.18,period_pnl:135.5},{date:"2025-08-13",cum_pnl:4408.18,dd:0.0,peak:4408.18,period_pnl:0.0},
+    {date:"2025-08-18",cum_pnl:3982.28,dd:-425.9,peak:4408.18,period_pnl:-425.9},{date:"2025-08-21",cum_pnl:4288.48,dd:-119.7,peak:4408.18,period_pnl:306.2},
+    {date:"2025-08-26",cum_pnl:4517.38,dd:0.0,peak:4517.38,period_pnl:228.9},{date:"2025-08-29",cum_pnl:4814.08,dd:0.0,peak:4814.08,period_pnl:296.7},
+    {date:"2025-09-03",cum_pnl:5237.28,dd:0.0,peak:5237.28,period_pnl:423.2},{date:"2025-09-08",cum_pnl:4694.16,dd:-543.12,peak:5237.28,period_pnl:-543.12},
+    {date:"2025-09-11",cum_pnl:4694.16,dd:-543.12,peak:5237.28,period_pnl:0.0},{date:"2025-09-16",cum_pnl:5579.16,dd:0.0,peak:5579.16,period_pnl:885.0},
+    {date:"2025-09-19",cum_pnl:5579.16,dd:0.0,peak:5579.16,period_pnl:0.0},{date:"2025-09-24",cum_pnl:5255.56,dd:-323.6,peak:5579.16,period_pnl:-323.6},
+    {date:"2025-09-29",cum_pnl:4757.46,dd:-821.7,peak:5579.16,period_pnl:-498.1},{date:"2025-10-02",cum_pnl:4998.36,dd:-580.8,peak:5579.16,period_pnl:240.9},
+    {date:"2025-10-07",cum_pnl:4998.36,dd:-580.8,peak:5579.16,period_pnl:0.0},{date:"2025-10-10",cum_pnl:5472.86,dd:-106.3,peak:5579.16,period_pnl:474.5},
+    {date:"2025-10-15",cum_pnl:5472.86,dd:-106.3,peak:5579.16,period_pnl:0.0},{date:"2025-10-20",cum_pnl:6201.06,dd:0.0,peak:6201.06,period_pnl:728.2},
+    {date:"2025-10-23",cum_pnl:6472.86,dd:0.0,peak:6472.86,period_pnl:271.8},{date:"2025-10-28",cum_pnl:6476.66,dd:0.0,peak:6476.66,period_pnl:3.8},
+    {date:"2025-10-31",cum_pnl:6476.66,dd:0.0,peak:6476.66,period_pnl:0.0},{date:"2025-11-05",cum_pnl:6761.96,dd:0.0,peak:6761.96,period_pnl:285.3},
+    {date:"2025-11-10",cum_pnl:7131.24,dd:0.0,peak:7131.24,period_pnl:369.28},{date:"2025-11-13",cum_pnl:6803.04,dd:-328.2,peak:7131.24,period_pnl:-328.2},
+    {date:"2025-11-18",cum_pnl:6852.48,dd:-278.76,peak:7131.24,period_pnl:49.44},{date:"2025-11-21",cum_pnl:6309.78,dd:-821.46,peak:7131.24,period_pnl:-542.7},
+    {date:"2025-11-26",cum_pnl:6235.38,dd:-895.86,peak:7131.24,period_pnl:-74.4},{date:"2025-12-01",cum_pnl:6339.88,dd:-791.36,peak:7131.24,period_pnl:104.5},
+    {date:"2025-12-04",cum_pnl:6213.02,dd:-918.22,peak:7131.24,period_pnl:-126.86},{date:"2025-12-09",cum_pnl:6488.22,dd:-643.02,peak:7131.24,period_pnl:275.2},
+    {date:"2025-12-12",cum_pnl:6351.72,dd:-779.52,peak:7131.24,period_pnl:-136.5},{date:"2025-12-17",cum_pnl:6351.72,dd:-779.52,peak:7131.24,period_pnl:0.0},
+    {date:"2025-12-22",cum_pnl:6351.72,dd:-779.52,peak:7131.24,period_pnl:0.0},{date:"2025-12-25",cum_pnl:6351.72,dd:-779.52,peak:7131.24,period_pnl:0.0},
+    {date:"2025-12-30",cum_pnl:6351.72,dd:-779.52,peak:7131.24,period_pnl:0.0},{date:"2026-01-02",cum_pnl:6552.62,dd:-578.62,peak:7131.24,period_pnl:200.9},
+    {date:"2026-01-07",cum_pnl:7037.22,dd:-94.02,peak:7131.24,period_pnl:484.6},{date:"2026-01-12",cum_pnl:7190.06,dd:-138.5,peak:7328.56,period_pnl:152.84},
+    {date:"2026-01-15",cum_pnl:7479.76,dd:0.0,peak:7479.76,period_pnl:289.7},{date:"2026-01-20",cum_pnl:7950.36,dd:0.0,peak:7950.36,period_pnl:470.6},
+    {date:"2026-01-23",cum_pnl:8355.96,dd:0.0,peak:8355.96,period_pnl:405.6},{date:"2026-01-28",cum_pnl:8778.56,dd:0.0,peak:8778.56,period_pnl:422.6},
+    {date:"2026-02-02",cum_pnl:8493.36,dd:-285.2,peak:8778.56,period_pnl:-285.2},{date:"2026-02-05",cum_pnl:8944.0,dd:0.0,peak:8944.0,period_pnl:450.64},
+    {date:"2026-02-10",cum_pnl:9252.7,dd:0.0,peak:9252.7,period_pnl:308.7},{date:"2026-02-13",cum_pnl:9536.5,dd:0.0,peak:9536.5,period_pnl:283.8},
+    {date:"2026-02-18",cum_pnl:9294.7,dd:-241.8,peak:9536.5,period_pnl:-241.8},{date:"2026-02-23",cum_pnl:10042.0,dd:0.0,peak:10042.0,period_pnl:747.3},
+    {date:"2026-02-26",cum_pnl:9900.7,dd:-141.3,peak:10042.0,period_pnl:-141.3},{date:"2026-03-03",cum_pnl:10048.7,dd:-64.9,peak:10113.6,period_pnl:148.0},
+    {date:"2026-03-06",cum_pnl:10294.1,dd:0.0,peak:10294.1,period_pnl:245.4},{date:"2026-03-11",cum_pnl:10776.7,dd:0.0,peak:10776.7,period_pnl:482.6},
+    {date:"2026-03-16",cum_pnl:11511.92,dd:0.0,peak:11511.92,period_pnl:735.22},{date:"2026-03-19",cum_pnl:11764.22,dd:0.0,peak:11764.22,period_pnl:252.3},
+    {date:"2026-03-24",cum_pnl:12050.52,dd:0.0,peak:12050.52,period_pnl:286.3},{date:"2026-03-27",cum_pnl:12107.62,dd:0.0,peak:12107.62,period_pnl:57.1},
+    {date:"2026-04-01",cum_pnl:12541.32,dd:0.0,peak:12541.32,period_pnl:433.7},{date:"2026-04-06",cum_pnl:12541.32,dd:0.0,peak:12541.32,period_pnl:0.0},
+    {date:"2026-04-09",cum_pnl:13168.9,dd:0.0,peak:13168.9,period_pnl:627.58},{date:"2026-04-14",cum_pnl:13385.8,dd:0.0,peak:13385.8,period_pnl:216.9},
+    {date:"2026-04-17",cum_pnl:13385.8,dd:0.0,peak:13385.8,period_pnl:0.0},{date:"2026-04-22",cum_pnl:14329.4,dd:0.0,peak:14329.4,period_pnl:943.6},
+    {date:"2026-04-24",cum_pnl:13992.2,dd:-337.2,peak:14329.4,period_pnl:-337.2}
   ],
   monthly: [
     {month:"2025-04",pnl:735.56,trades:2},{month:"2025-05",pnl:1849.92,trades:14},
@@ -358,10 +358,16 @@ function WebhookAnswer() {
    ========================================================================= */
 function EquityCurve() {
   const [showDD, setShowDD] = useState(true);
-  const [showMilestones, setShowMilestones] = useState(true);
+  const [showBars, setShowBars] = useState(true);
+  const [showThreshold, setShowThreshold] = useState(true);
   const s = DATA.summary;
 
-  const ddData = DATA.equity.map(d => ({ ...d, dd_abs: Math.abs(d.dd) }));
+  const chartData = DATA.equity.map(d => ({
+    ...d,
+    dd_abs: Math.abs(d.dd),
+    period_pos: d.period_pnl > 0 ? d.period_pnl : 0,
+    period_neg: d.period_pnl < 0 ? Math.abs(d.period_pnl) : 0,
+  }));
 
   return (
     <section className="max-w-7xl mx-auto px-6 md:px-10">
@@ -371,18 +377,18 @@ function EquityCurve() {
         <h2 className="text-slate-100" style={{ fontFamily: FONT_DISPLAY, fontWeight: 300, fontSize: "clamp(2.25rem, 5vw, 3.5rem)", lineHeight: 1.05, margin: 0, letterSpacing: "-0.02em" }}>
           The <Display italic style={{ color: "#fbbf24" }}>journey</Display>.
         </h2>
-        <div className="flex gap-2" style={{ fontSize: "11px" }}>
+        <div className="flex gap-2 flex-wrap" style={{ fontSize: "11px" }}>
           <button
-            onClick={() => setShowMilestones(!showMilestones)}
+            onClick={() => setShowBars(!showBars)}
             className="px-3 py-1.5 border transition-colors"
             style={{
               fontFamily: FONT_MONO,
-              borderColor: showMilestones ? "#fbbf24" : "#334155",
-              color: showMilestones ? "#fbbf24" : "#64748b",
-              backgroundColor: showMilestones ? "rgba(251,191,36,0.05)" : "transparent"
+              borderColor: showBars ? "#34d399" : "#334155",
+              color: showBars ? "#34d399" : "#64748b",
+              backgroundColor: showBars ? "rgba(52,211,153,0.05)" : "transparent"
             }}
           >
-            ◆ MILESTONES
+            ▮ DAILY P&L
           </button>
           <button
             onClick={() => setShowDD(!showDD)}
@@ -396,19 +402,31 @@ function EquityCurve() {
           >
             ▼ DRAWDOWN
           </button>
+          <button
+            onClick={() => setShowThreshold(!showThreshold)}
+            className="px-3 py-1.5 border transition-colors"
+            style={{
+              fontFamily: FONT_MONO,
+              borderColor: showThreshold ? "#dc2626" : "#334155",
+              color: showThreshold ? "#dc2626" : "#64748b",
+              backgroundColor: showThreshold ? "rgba(220,38,38,0.05)" : "transparent"
+            }}
+          >
+            ⚠ BLOW LEVEL
+          </button>
         </div>
       </div>
 
       <div className="border border-slate-800 bg-black p-4 md:p-6 mb-6">
-        <ResponsiveContainer width="100%" height={400}>
-          <ComposedChart data={ddData} margin={{ top: 20, right: 20, left: 0, bottom: 5 }}>
+        <ResponsiveContainer width="100%" height={460}>
+          <ComposedChart data={chartData} margin={{ top: 20, right: 50, left: 0, bottom: 5 }}>
             <defs>
               <linearGradient id="equityGrad" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="0%" stopColor="#fbbf24" stopOpacity={0.4}/>
+                <stop offset="0%" stopColor="#fbbf24" stopOpacity={0.5}/>
                 <stop offset="100%" stopColor="#fbbf24" stopOpacity={0}/>
               </linearGradient>
               <linearGradient id="ddGrad" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="0%" stopColor="#f43f5e" stopOpacity={0.5}/>
+                <stop offset="0%" stopColor="#f43f5e" stopOpacity={0.6}/>
                 <stop offset="100%" stopColor="#f43f5e" stopOpacity={0}/>
               </linearGradient>
             </defs>
@@ -421,78 +439,173 @@ function EquityCurve() {
                 const parts = d.split('-');
                 return `${parts[0].slice(2)}-${parts[1]}`;
               }}
-              interval={Math.floor(ddData.length / 8)}
+              interval={Math.floor(chartData.length / 8)}
             />
             <YAxis
               yAxisId="left"
-              tick={{ fill: "#64748b", fontSize: 10, fontFamily: FONT_MONO }}
+              tick={{ fill: "#fbbf24", fontSize: 10, fontFamily: FONT_MONO }}
               stroke="#1e293b"
               tickFormatter={(v) => `$${(v / 1000).toFixed(0)}k`}
+              domain={[0, 16000]}
             />
-            {showDD && (
-              <YAxis
-                yAxisId="right"
-                orientation="right"
-                tick={{ fill: "#f43f5e", fontSize: 10, fontFamily: FONT_MONO }}
-                stroke="#f43f5e"
-                tickFormatter={(v) => `-$${v}`}
-                domain={[0, 1200]}
-              />
-            )}
+            <YAxis
+              yAxisId="right"
+              orientation="right"
+              tick={{ fill: "#f43f5e", fontSize: 10, fontFamily: FONT_MONO }}
+              stroke="#1e293b"
+              tickFormatter={(v) => v === 0 ? "$0" : `-$${v}`}
+              domain={[0, 2200]}
+              ticks={[0, 500, 1000, 1500, 2000]}
+            />
             <Tooltip
               contentStyle={tooltipStyle}
               cursor={{ stroke: "#475569", strokeDasharray: "3 3" }}
               formatter={(v, n) => {
                 if (n === "Equity") return [fmt$$(v), n];
-                if (n === "Drawdown") return [`-${fmt$$(v)}`, n];
+                if (n === "Drawdown") return v === 0 ? null : [`-${fmt$$(v)}`, n];
+                if (n === "Period gain") return v === 0 ? null : [`+${fmt$$(v)}`, n];
+                if (n === "Period loss") return v === 0 ? null : [`-${fmt$$(v)}`, n];
                 return [v, n];
               }}
             />
-            <Area
-              yAxisId="left"
-              type="monotone"
-              dataKey="cum_pnl"
-              stroke="#fbbf24"
-              strokeWidth={2}
-              fill="url(#equityGrad)"
-              name="Equity"
-            />
+            {/* Daily P&L bars (positive green, negative red) */}
+            {showBars && (
+              <Bar yAxisId="left" dataKey="period_pos" fill="#34d399" fillOpacity={0.55} name="Period gain" />
+            )}
+            {showBars && (
+              <Bar yAxisId="left" dataKey="period_neg" fill="#f43f5e" fillOpacity={0.55} name="Period loss" />
+            )}
+            {/* Drawdown area */}
             {showDD && (
               <Area
                 yAxisId="right"
                 type="monotone"
                 dataKey="dd_abs"
                 stroke="#f43f5e"
-                strokeWidth={1}
+                strokeWidth={1.5}
                 fill="url(#ddGrad)"
                 name="Drawdown"
               />
             )}
-            {showMilestones && [3000, 6000, 10000].map((level, i) => (
+            {/* Equity curve on top */}
+            <Area
+              yAxisId="left"
+              type="monotone"
+              dataKey="cum_pnl"
+              stroke="#fbbf24"
+              strokeWidth={2.5}
+              fill="url(#equityGrad)"
+              name="Equity"
+            />
+            {/* Blow threshold — Tradeify $2k trail */}
+            {showThreshold && (
+              <ReferenceLine
+                yAxisId="right"
+                y={2000}
+                stroke="#dc2626"
+                strokeWidth={2}
+                strokeDasharray="6 4"
+                label={{
+                  value: "⚠ ACCOUNT BLOWS · $2,000 trail",
+                  fill: "#fca5a5",
+                  fontSize: 10,
+                  position: "insideTopRight",
+                  fontFamily: FONT_MONO,
+                  letterSpacing: "0.1em",
+                  offset: 8
+                }}
+              />
+            )}
+            {/* Worst realized DD marker */}
+            {showThreshold && (
+              <ReferenceLine
+                yAxisId="right"
+                y={918}
+                stroke="#fbbf24"
+                strokeWidth={1}
+                strokeDasharray="3 3"
+                strokeOpacity={0.5}
+                label={{
+                  value: "Realized worst · $918 (46%)",
+                  fill: "#fbbf24",
+                  fontSize: 9,
+                  position: "insideTopRight",
+                  fontFamily: FONT_MONO,
+                  letterSpacing: "0.05em",
+                  fillOpacity: 0.7,
+                  offset: 8
+                }}
+              />
+            )}
+            {/* Payout milestones on equity axis */}
+            {[3000, 5000, 7000, 9000, 11000, 13000].map((level, i) => (
               <ReferenceLine
                 key={i}
                 yAxisId="left"
                 y={level}
                 stroke="#fbbf24"
-                strokeDasharray="4 4"
-                strokeOpacity={0.4}
-                label={{ value: `$${level/1000}K`, fill: "#fbbf24", fontSize: 10, position: "right", fontFamily: FONT_MONO, fillOpacity: 0.7 }}
+                strokeDasharray="2 4"
+                strokeOpacity={0.25}
+                label={{ value: `P${i+1}`, fill: "#fbbf24", fontSize: 9, position: "left", fontFamily: FONT_MONO, fillOpacity: 0.6 }}
               />
             ))}
           </ComposedChart>
         </ResponsiveContainer>
+
+        {/* Chart legend */}
+        <div className="flex flex-wrap items-center gap-x-5 gap-y-2 mt-4 pt-4 border-t border-slate-800" style={{ fontSize: "10px" }}>
+          <div className="flex items-center gap-2">
+            <span style={{ width: "12px", height: "2px", backgroundColor: "#fbbf24" }} />
+            <Mono className="text-slate-500">CUMULATIVE EQUITY</Mono>
+          </div>
+          <div className="flex items-center gap-2">
+            <span style={{ width: "12px", height: "8px", backgroundColor: "#34d399", opacity: 0.55 }} />
+            <Mono className="text-slate-500">POSITIVE DAYS</Mono>
+          </div>
+          <div className="flex items-center gap-2">
+            <span style={{ width: "12px", height: "8px", backgroundColor: "#f43f5e", opacity: 0.55 }} />
+            <Mono className="text-slate-500">NEGATIVE DAYS</Mono>
+          </div>
+          <div className="flex items-center gap-2">
+            <span style={{ width: "12px", height: "8px", background: "linear-gradient(to bottom, rgba(244,63,94,0.6), rgba(244,63,94,0))" }} />
+            <Mono className="text-slate-500">DRAWDOWN FROM PEAK</Mono>
+          </div>
+          <div className="flex items-center gap-2">
+            <span style={{ width: "12px", height: "2px", backgroundColor: "#dc2626", border: "1px dashed #dc2626" }} />
+            <Mono className="text-rose-400">$2K BLOW THRESHOLD</Mono>
+          </div>
+        </div>
+      </div>
+
+      {/* Threshold context callout */}
+      <div className="grid lg:grid-cols-3 gap-px border border-slate-800 mb-6" style={{ backgroundColor: "rgba(30,41,59,0.4)" }}>
+        <div className="bg-black p-5">
+          <Mono className="uppercase text-rose-400 block mb-2" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>⚠ blow threshold</Mono>
+          <Display weight={300} style={{ fontSize: "30px", color: "#fca5a5" }}>$2,000</Display>
+          <Mono className="text-slate-500 block mt-1" style={{ fontSize: "10px" }}>EOD trailing limit · Tradeify 50K</Mono>
+        </div>
+        <div className="bg-black p-5">
+          <Mono className="uppercase text-amber-400 block mb-2" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>↘ worst realized</Mono>
+          <Display weight={300} style={{ fontSize: "30px", color: "#fde68a" }}>$918</Display>
+          <Mono className="text-slate-500 block mt-1" style={{ fontSize: "10px" }}>46% of trail · Dec 4, 2025</Mono>
+        </div>
+        <div className="bg-black p-5">
+          <Mono className="uppercase text-emerald-400 block mb-2" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>✓ headroom</Mono>
+          <Display weight={300} style={{ fontSize: "30px", color: "#a7f3d0" }}>$1,082</Display>
+          <Mono className="text-slate-500 block mt-1" style={{ fontSize: "10px" }}>cushion above worst case</Mono>
+        </div>
       </div>
 
       {/* Milestone callouts */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-px border border-slate-800" style={{ backgroundColor: "rgba(30,41,59,0.4)" }}>
         {[
-          { l: 3000, days: 71, label: "1st payout goal", note: "Tradeify 50K Lightning" },
-          { l: 6000, days: 181, label: "2nd payout milestone", note: "≈ 6 months in" },
-          { l: 10000, days: 307, label: "Five-figure mark", note: "≈ 10 months in" },
-          { l: 13000, days: 351, label: "Final stretch", note: "≈ 12 months in" }
+          { l: 3000, days: 70, label: "Payout #1 hit", note: "$3,000 · Jul 2, 2025" },
+          { l: 5000, days: 133, label: "Payout #2 hit", note: "$2,000 · Sep 3, 2025" },
+          { l: 7000, days: 197, label: "Payout #3 hit", note: "$2,000 · Nov 6, 2025" },
+          { l: 13000, days: 350, label: "Payout #6 hit", note: "$2,000 · Apr 8, 2026" }
         ].map((m, i) => (
           <div key={i} className="bg-black p-4 md:p-5">
-            <Mono className="uppercase text-slate-500 mb-2 block" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>${(m.l/1000).toFixed(0)}K HIT</Mono>
+            <Mono className="uppercase text-slate-500 mb-2 block" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>${(m.l/1000).toFixed(0)}K MARK</Mono>
             <Display weight={300} style={{ fontSize: "26px", color: "#fbbf24" }}>{m.days}<span className="text-slate-500" style={{ fontSize: "13px" }}> days</span></Display>
             <Mono className="text-slate-300 block mt-2" style={{ fontSize: "11px" }}>{m.label}</Mono>
             <Mono className="text-slate-600 block" style={{ fontSize: "10px" }}>{m.note}</Mono>
@@ -790,21 +903,25 @@ function DrawdownAnatomy() {
    PAYOUT PROJECTION
    ========================================================================= */
 function PayoutProjection() {
-  const monthly = DATA.summary.avg_monthly;
-
-  // Tradeify Lightning 50K (post-Sep 2025)
-  // Min payout buffer: $500 above trail (1% of starting balance) for new accounts
-  // 1st payout: $3,000 profit goal, 20% consistency
-  // 2nd: $3,000 again, 25% consistency
-  // 3rd: $3,000, 30%
-  // 4th+: same goal, 30%
+  // Tradeify Lightning 50K - corrected payout structure:
+  //   Payout 1: $3,000 profit goal
+  //   Payout 2+: $2,000 profit goal each
+  // Consistency:
+  //   Pre-Sep 12 2025 accounts: 20% for ALL payouts
+  //   Post-Sep 12 2025 accounts: 20% / 25% / 30% (graduated)
+  // 90/10 profit split
 
   const payouts = [
-    { n: 1, goal: 3000, consistency: 20, expected_month: 2.8, hit_date: "Jul 2, 2025", actual_days: 71 },
-    { n: 2, goal: 3000, consistency: 25, expected_month: 5.6, hit_date: "Sep 21, 2025", actual_days: 152 },
-    { n: 3, goal: 3000, consistency: 30, expected_month: 8.4, hit_date: "Dec 7, 2025", actual_days: 229 },
-    { n: 4, goal: 3000, consistency: 30, expected_month: 11.1, hit_date: "Mar 1, 2026", actual_days: 313 }
+    { n: 1, goal: 3000, cons_pre: 20, cons_post: 20, expected_month: 2.8, hit_date: "Jul 2, 2025", actual_days: 70, gap: null },
+    { n: 2, goal: 2000, cons_pre: 20, cons_post: 25, expected_month: 4.7, hit_date: "Sep 3, 2025", actual_days: 133, gap: 63 },
+    { n: 3, goal: 2000, cons_pre: 20, cons_post: 30, expected_month: 6.5, hit_date: "Nov 6, 2025", actual_days: 197, gap: 64 },
+    { n: 4, goal: 2000, cons_pre: 20, cons_post: 30, expected_month: 8.4, hit_date: "Feb 9, 2026", actual_days: 292, gap: 95 },
+    { n: 5, goal: 2000, cons_pre: 20, cons_post: 30, expected_month: 10.2, hit_date: "Mar 12, 2026", actual_days: 323, gap: 31 },
+    { n: 6, goal: 2000, cons_pre: 20, cons_post: 30, expected_month: 12.1, hit_date: "Apr 8, 2026", actual_days: 350, gap: 27 }
   ];
+
+  const totalGross = payouts.reduce((a, p) => a + p.goal, 0);
+  const totalTake = totalGross * 0.9;
 
   return (
     <section className="max-w-7xl mx-auto px-6 md:px-10">
@@ -812,58 +929,98 @@ function PayoutProjection() {
 
       <div className="mb-8">
         <h2 className="text-slate-100" style={{ fontFamily: FONT_DISPLAY, fontWeight: 300, fontSize: "clamp(2.5rem, 5vw, 3.5rem)", lineHeight: 1.05, margin: 0, letterSpacing: "-0.02em" }}>
-          Your <Display italic style={{ color: "#fbbf24" }}>payout</Display> calendar.
+          <Display italic style={{ color: "#fbbf24" }}>Six</Display> payouts in 12 months.
         </h2>
-        <p className="text-slate-400 leading-relaxed max-w-2xl mt-3" style={{ fontSize: "16px" }}>
-          Based on your realized $1,076/month average at $375 risk on a Tradeify Lightning 50K Instant Funded.
-          Each payout requires <Mono className="text-amber-300" style={{ fontSize: "13px" }}>$3,000</Mono> of fresh profit
-          (the goal resets after each one).
+        <p className="text-slate-400 leading-relaxed max-w-3xl mt-3" style={{ fontSize: "16px" }}>
+          Tradeify drops the goal to <Mono className="text-amber-300" style={{ fontSize: "13px" }}>$2,000</Mono> after the first payout —
+          which means after the initial $3K hurdle, you're hitting payouts every <Mono className="text-amber-300" style={{ fontSize: "13px" }}>~2 months</Mono>.
+          Realized: 6 payouts totalling <Mono className="text-emerald-300" style={{ fontSize: "13px" }}>${totalGross.toLocaleString()}</Mono> gross,
+          <Mono className="text-emerald-300" style={{ fontSize: "13px" }}> ${totalTake.toLocaleString()}</Mono> take-home (90/10 split).
         </p>
+      </div>
+
+      {/* Summary strip */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-px border border-slate-800 mb-6" style={{ backgroundColor: "rgba(30,41,59,0.4)" }}>
+        <div className="bg-black p-5">
+          <Mono className="block uppercase text-slate-500" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>Total payouts</Mono>
+          <Display weight={300} style={{ fontSize: "32px", color: "#fbbf24" }}>6</Display>
+          <Mono className="text-slate-600 block" style={{ fontSize: "10px" }}>in 12 months</Mono>
+        </div>
+        <div className="bg-black p-5">
+          <Mono className="block uppercase text-slate-500" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>Gross paid</Mono>
+          <Display weight={300} style={{ fontSize: "32px", color: "#a7f3d0" }}>${totalGross.toLocaleString()}</Display>
+          <Mono className="text-slate-600 block" style={{ fontSize: "10px" }}>before split</Mono>
+        </div>
+        <div className="bg-black p-5">
+          <Mono className="block uppercase text-slate-500" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>Take-home</Mono>
+          <Display weight={300} style={{ fontSize: "32px", color: "#a7f3d0" }}>${totalTake.toLocaleString()}</Display>
+          <Mono className="text-slate-600 block" style={{ fontSize: "10px" }}>90% to you</Mono>
+        </div>
+        <div className="bg-black p-5">
+          <Mono className="block uppercase text-slate-500" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>Avg gap</Mono>
+          <Display weight={300} style={{ fontSize: "32px", color: "#fde68a" }}>56<span className="text-slate-500" style={{ fontSize: "13px" }}> days</span></Display>
+          <Mono className="text-slate-600 block" style={{ fontSize: "10px" }}>after 1st payout</Mono>
+        </div>
       </div>
 
       <div className="space-y-3">
         {payouts.map((p, i) => (
           <div key={p.n} className="relative grid md:grid-cols-12 gap-4 p-5 border border-slate-800 bg-black items-center" style={{
-            background: `linear-gradient(to right, rgba(251,191,36,${0.08 - i*0.015}), transparent)`
+            background: `linear-gradient(to right, rgba(251,191,36,${0.10 - i*0.012}), transparent)`
           }}>
             <div className="md:col-span-1 flex items-center gap-3">
               <Mono className="text-amber-400" style={{ fontFamily: FONT_DISPLAY, fontWeight: 300, fontSize: "44px", lineHeight: 1 }}>0{p.n}</Mono>
             </div>
-            <div className="md:col-span-3">
+            <div className="md:col-span-2">
               <Mono className="block uppercase text-slate-500" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>Profit goal</Mono>
               <Display weight={300} style={{ fontSize: "24px", color: "#fbbf24" }}>${p.goal.toLocaleString()}</Display>
-              <Mono className="text-slate-500 block" style={{ fontSize: "10px" }}>fresh from this cycle</Mono>
+              <Mono className="text-slate-500 block" style={{ fontSize: "10px" }}>{p.n === 1 ? "first hurdle" : "fresh profit"}</Mono>
             </div>
             <div className="md:col-span-2">
               <Mono className="block uppercase text-slate-500" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>Consistency</Mono>
-              <Display weight={300} style={{ fontSize: "24px", color: "#a7f3d0" }}>{p.consistency}%</Display>
-              <Mono className="text-slate-500 block" style={{ fontSize: "10px" }}>max single day</Mono>
+              <Display weight={300} style={{ fontSize: "20px", color: "#a7f3d0" }}>
+                {p.cons_pre}<span className="text-slate-600" style={{ fontSize: "12px" }}> / {p.cons_post}%</span>
+              </Display>
+              <Mono className="text-slate-500 block" style={{ fontSize: "10px" }}>pre / post Sep 12</Mono>
             </div>
             <div className="md:col-span-2">
               <Mono className="block uppercase text-slate-500" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>Expected</Mono>
-              <Display weight={300} style={{ fontSize: "24px", color: "#e2e8f0" }}>~{p.expected_month}<span className="text-slate-500" style={{ fontSize: "13px" }}> mo</span></Display>
+              <Display weight={300} style={{ fontSize: "22px", color: "#e2e8f0" }}>~{p.expected_month}<span className="text-slate-500" style={{ fontSize: "13px" }}> mo</span></Display>
               <Mono className="text-slate-500 block" style={{ fontSize: "10px" }}>at $1,076/mo avg</Mono>
             </div>
-            <div className="md:col-span-2">
+            <div className="md:col-span-3">
               <Mono className="block uppercase text-slate-500" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>Realized hit</Mono>
               <Display weight={300} style={{ fontSize: "16px", color: "#a7f3d0" }}>{p.hit_date}</Display>
-              <Mono className="text-slate-500 block" style={{ fontSize: "10px" }}>day {p.actual_days}</Mono>
+              <Mono className="text-slate-500 block" style={{ fontSize: "10px" }}>
+                day {p.actual_days}{p.gap && <span className="text-slate-600"> · +{p.gap}d gap</span>}
+              </Mono>
             </div>
             <div className="md:col-span-2 text-right">
-              <Mono className="block uppercase text-slate-500" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>Take-home (90%)</Mono>
+              <Mono className="block uppercase text-slate-500" style={{ fontSize: "9px", letterSpacing: "0.25em" }}>Take-home</Mono>
               <Display weight={300} style={{ fontSize: "26px", color: "#fbbf24" }}>${(p.goal * 0.9).toLocaleString()}</Display>
+              <Mono className="text-slate-500 block" style={{ fontSize: "10px" }}>90% split</Mono>
             </div>
           </div>
         ))}
       </div>
 
-      <div className="mt-6 p-5 border border-emerald-500/30 bg-emerald-500/5">
-        <Mono className="uppercase text-emerald-400 block mb-2" style={{ fontSize: "10px", letterSpacing: "0.3em" }}>✓ consistency check · realized data</Mono>
-        <p className="text-slate-300 leading-relaxed" style={{ fontSize: "14px" }}>
-          Your single best day in 12 months was <Mono className="text-emerald-300" style={{ fontSize: "13px" }}>$510.42</Mono>.
-          For the 1st payout (20% rule, $3K goal), max single day allowed = $600 — you're <em className="text-emerald-300">comfortably under</em>.
-          At $375 risk on this strategy, the rule isn't a binding constraint. You can request the payout the moment you hit $3,500 buffer.
-        </p>
+      <div className="grid md:grid-cols-2 gap-6 mt-6">
+        <div className="p-5 border border-emerald-500/30 bg-emerald-500/5">
+          <Mono className="uppercase text-emerald-400 block mb-2" style={{ fontSize: "10px", letterSpacing: "0.3em" }}>✓ consistency check</Mono>
+          <p className="text-slate-300 leading-relaxed" style={{ fontSize: "13px" }}>
+            Best realized day was <Mono className="text-emerald-300" style={{ fontSize: "13px" }}>$510.42</Mono>.
+            At Payout 1 (20% rule, $3K goal) max day = $600. At Payout 2+ (20% pre / 25% post)
+            on $2K goal, max day = $400-$500. Cuts close on a few days but you've got a buffer.
+          </p>
+        </div>
+        <div className="p-5 border border-amber-500/30 bg-amber-500/5">
+          <Mono className="uppercase text-amber-400 block mb-2" style={{ fontSize: "10px", letterSpacing: "0.3em" }}>⚠ post-Sep 12 caveat</Mono>
+          <p className="text-slate-300 leading-relaxed" style={{ fontSize: "13px" }}>
+            If your account was bought AFTER Sep 12, 2025, the 30% consistency rule kicks in at Payout 3+.
+            That means max single day = $600. Your worst case at $375 risk: a 2-win day around $500 — still safe.
+            Pre-Sep 12 accounts keep the flat 20% rule throughout.
+          </p>
+        </div>
       </div>
     </section>
   );
@@ -1096,10 +1253,10 @@ function FinalVerdict() {
 
         <Mono className="uppercase text-amber-500 mb-6 block" style={{ fontSize: "10px", letterSpacing: "0.3em" }}>◆ verdict</Mono>
 
-        <h2 className="text-slate-100 leading-[1.1]" style={{ fontFamily: FONT_DISPLAY, fontWeight: 300, fontSize: "clamp(2.25rem, 5vw, 3.5rem)", letterSpacing: "-0.02em", margin: 0 }}>
+        <h2 className="text-slate-100" style={{ fontFamily: FONT_DISPLAY, fontWeight: 300, fontSize: "clamp(2.25rem, 5vw, 3.5rem)", letterSpacing: "-0.02em", margin: 0, lineHeight: 1.1 }}>
           Stay at <Display italic style={{ color: "#fbbf24" }}>$375</Display>.<br />
           Use <Display italic style={{ color: "#fbbf24" }}>one webhook</Display>.<br />
-          Expect a payout every <Display italic style={{ color: "#fbbf24" }}>~3 months</Display>.
+          Pull <Display italic style={{ color: "#fbbf24" }}>$11,700</Display> over 12 months.
         </h2>
 
         <div className="grid md:grid-cols-2 gap-8 mt-10 pt-8 border-t border-slate-800">
@@ -1116,7 +1273,7 @@ function FinalVerdict() {
               </li>
               <li className="flex gap-3">
                 <span className="text-amber-500 mt-1">→</span>
-                <span>Plan around <Mono className="text-amber-300" style={{ fontSize: "13px" }}>~$1,076/month</Mono> realized average. Payout #1 hit at day 71 historically.</span>
+                <span>Plan around <Mono className="text-amber-300" style={{ fontSize: "13px" }}>~$1,076/month</Mono>. Payout #1 ($3K) hit at day 70 historically; payouts 2-6 ($2K each) average <Mono className="text-amber-300" style={{ fontSize: "13px" }}>56 days apart</Mono>.</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-amber-500 mt-1">→</span>
